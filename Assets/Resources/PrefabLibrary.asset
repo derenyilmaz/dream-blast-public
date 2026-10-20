@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a21086151c6846a68071079f3f256ea7, type: 3}
+  m_Name: PrefabLibrary
+  m_EditorClassIdentifier: 
+  gameItemType2PrefabList:
+  - gameItemType: 1
+    gameItemPrefab: {fileID: 1574445097300789467, guid: 49567bf72c2e552428dfcd58d645d83d, type: 3}
+  - gameItemType: 2
+    gameItemPrefab: {fileID: 9215409941249503987, guid: 24cb34c95ce20d046b23a70041fd4526, type: 3}
+  - gameItemType: 3
+    gameItemPrefab: {fileID: 4774949087734277229, guid: 50ce0f4e6a365304c9d2edca729636ed, type: 3}
+  - gameItemType: 4
+    gameItemPrefab: {fileID: 4696168618750376293, guid: a494d41deb8c17949a540ec5e39c3637, type: 3}
+  - gameItemType: 101
+    gameItemPrefab: {fileID: 8191393817623204531, guid: feb89bf8ca9f9d245b6705c4d8e0111c, type: 3}
+  - gameItemType: 1001
+    gameItemPrefab: {fileID: 8751147329724470266, guid: 5e81ffd404c140c4b87157e6d38af8fe, type: 3}
+  - gameItemType: 1002
+    gameItemPrefab: {fileID: 1424429612137389923, guid: 79f1199b3798f6940a14245952a25d29, type: 3}
+  - gameItemType: 1003
+    gameItemPrefab: {fileID: 794057280407569483, guid: d13c86abc6172b24b82c05daf003a36b, type: 3}

@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6932744090969461004
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 184602781052844721, guid: 3955ae6ed60c48e4da5a8ab671efe176, type: 3}
+      propertyPath: m_Size.x
+      value: 1.42
+      objectReference: {fileID: 0}
+    - target: {fileID: 184602781052844721, guid: 3955ae6ed60c48e4da5a8ab671efe176, type: 3}
+      propertyPath: m_Size.y
+      value: 1.62
+      objectReference: {fileID: 0}
+    - target: {fileID: 184602781052844721, guid: 3955ae6ed60c48e4da5a8ab671efe176, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 63f921cfe91c6c24da4c38e347460fb1, type: 3}
+    - target: {fileID: 184602781052844721, guid: 3955ae6ed60c48e4da5a8ab671efe176, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2293942448787547135, guid: 3955ae6ed60c48e4da5a8ab671efe176, type: 3}
+      propertyPath: gameItemType
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3312418257475001511, guid: 3955ae6ed60c48e4da5a8ab671efe176, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3312418257475001511, guid: 3955ae6ed60c48e4da5a8ab671efe176, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3312418257475001511, guid: 3955ae6ed60c48e4da5a8ab671efe176, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3312418257475001511, guid: 3955ae6ed60c48e4da5a8ab671efe176, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3312418257475001511, guid: 3955ae6ed60c48e4da5a8ab671efe176, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3312418257475001511, guid: 3955ae6ed60c48e4da5a8ab671efe176, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3312418257475001511, guid: 3955ae6ed60c48e4da5a8ab671efe176, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3312418257475001511, guid: 3955ae6ed60c48e4da5a8ab671efe176, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3312418257475001511, guid: 3955ae6ed60c48e4da5a8ab671efe176, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3312418257475001511, guid: 3955ae6ed60c48e4da5a8ab671efe176, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6239657505111464655, guid: 3955ae6ed60c48e4da5a8ab671efe176, type: 3}
+      propertyPath: m_Name
+      value: Green Cube Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3955ae6ed60c48e4da5a8ab671efe176, type: 3}
